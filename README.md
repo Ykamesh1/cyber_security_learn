@@ -65,5 +65,7 @@ https://tryhackme.com/room/becomeahacker?utm_campaign=social_share&utm_medium=so
 
 https://tryhackme.com/room/becomeadefender?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=698ba2cf1651f124f72773f9
 
+# Certificate 🎓
+
 [pre security path.pdf](https://github.com/user-attachments/files/26335001/pre.security.path.pdf)
 
