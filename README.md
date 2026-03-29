@@ -1,5 +1,7 @@
 # cyber_security_learn
 # my_tryhackme_labs
+# pre_security_path
+# statu: fnished ✅
 
 https://tryhackme.com/room/offensivesecurityintrokKx12l39?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=698ba2cf1651f124f72773f9
 
